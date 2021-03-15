@@ -11,4 +11,4 @@ Run development server:
 npm run dev
 ```
 
-Now you can test the app under https://localhost:5000
+Now you can test the app under http://localhost:5000
