@@ -6,7 +6,7 @@ Installation:
 npm install
 ```
 
-Run development version:
+Run development server:
 ```
 npm run dev
 ```
